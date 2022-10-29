@@ -15,15 +15,15 @@ Sulphates
 Quality
 
 
-Data Extraction
-Downloading a publicly available dataset
-Describing the dataset
-Data Pre-processing
-Cleaning/removing invalid values from rows
-Removing/filling missing data
-Data Visualization
-Data Exploratory Analysis
-Descriptive Analytics
-Prediction and Model Selection
-Classification
-Deriving Conclusion/Insights from the data
+Data Extraction -
+Downloading a publicly available dataset -
+Describing the dataset -
+Data Pre-processing -
+Cleaning/removing invalid values from rows - 
+Removing/filling missing data - 
+Data Visualization - 
+Data Exploratory Analysis - 
+Descriptive Analytics - 
+Prediction and Model Selection - 
+Classification - 
+Deriving Conclusion/Insights from the data.
