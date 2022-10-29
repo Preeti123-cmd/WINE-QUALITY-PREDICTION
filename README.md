@@ -6,13 +6,15 @@ Volatile Acidity
 Citric Acid
 Residual Sugar: sugars left in a wine after fermentation.
 Chlorides: salt in the wine
-Free Sulfur Dioxide: 
+Free Sulfur Dioxide 
 Total Sulfur Dioxide
 Density: Sweeter wines have a higher density
 pH: Describes the level of acidity on a scale of 0–14. Usually between 3–4 on the pH scale
 Alcohol
 Sulphates
 Quality
+
+
 Data Extraction
 Downloading a publicly available dataset
 Describing the dataset
