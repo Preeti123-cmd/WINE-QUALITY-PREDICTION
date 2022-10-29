@@ -13,3 +13,15 @@ pH: Describes the level of acidity on a scale of 0–14. Usually between 3–4 o
 Alcohol
 Sulphates
 Quality
+Data Extraction
+Downloading a publicly available dataset
+Describing the dataset
+Data Pre-processing
+Cleaning/removing invalid values from rows
+Removing/filling missing data
+Data Visualization
+Data Exploratory Analysis
+Descriptive Analytics
+Prediction and Model Selection
+Classification
+Deriving Conclusion/Insights from the data
